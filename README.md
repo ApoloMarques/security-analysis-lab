@@ -1,0 +1,6 @@
+- Objective
+- Technologies Used
+- Security Tools
+- Vulnerability Assessment
+- Hardening Actions
+- Results
